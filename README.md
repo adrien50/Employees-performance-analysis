@@ -5,5 +5,3 @@ INX Future Inc, is one of the leading data analytics and automation solutions pr
 • Top 3 Important factors affecting employee performance. 
 • A trained model which can predict the employee performance based on factors as inputs. 
 • Recommendations to improve the employee performance based on insights from analysis. 
-To satisfy the project goal, we have gone through the following steps : 
-• We have imported the data in Jupyter Notebook, provided the shape and description of the data and checked out null value. 
