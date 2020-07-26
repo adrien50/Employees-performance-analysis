@@ -20,3 +20,6 @@ The top 3 features effecting employee performances are:
 * Employee Environment Satisfaction (40%)
 * Employee Last Salary Hike Percent (33.3%)
 * Years since last promotion (17%)
+## Recommendation
+* The company should provide a better environment as it increases the performance drastically. 
+* The company should increase the salary of the employee from time to time 
